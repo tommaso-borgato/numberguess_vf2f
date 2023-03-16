@@ -1,0 +1,5 @@
+build:
+  uri: https://github.com/tommaso-borgato/numberguess_vf2f.git
+  ref: s2i
+deploy:
+  replicas: 1
